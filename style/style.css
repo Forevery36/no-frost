@@ -213,7 +213,17 @@ width: 95%;
     height: 790px
 }
 
+#pass1{background-image: url(../img/passport1.jpg);
+background-size: cover;
+width: 95%;
+    height: 790px
+}
 
+#pass2{background-image: url(../img/passport2.jpg);
+background-size: cover;
+width: 95%;
+    height: 790px
+}
 
 
 
