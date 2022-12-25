@@ -1,0 +1,247 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(../svg/fon.jpg);
+  width: 100%;
+  font-family: monospace, sans-serif;
+}
+
+h2{
+  font-size: 5vw;
+  color:greenyellow;
+}
+
+h3{
+  font-size: 4vw;
+  color: forestgreen;
+}
+
+h4{
+  font-size: 3vw;
+  color: gold;
+}
+
+h5{
+  font-size: 3vw;
+  color: gold;
+}
+.content {
+  text-align: center;
+}
+
+.card {
+  margin: 20px;
+  border: 2px solid blue;
+  padding: 20px;
+  font-family: monospace, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: antiquewhite;
+}
+
+
+.otv {
+  color: mediumvioletred;
+  border-top: 2px solid blue;
+  padding-top: 10px;
+  margin-top: 10px;
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+.half {
+  
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Acordeon styles */
+.tab {
+  padding-top: 5px;
+  margin-bottom: 1px;
+  width: 92vw;
+  color: #fff;
+  overflow: hidden;
+  margin: 0 auto;
+ 
+}
+
+.tab input {
+  position: absolute;
+  opacity: 0;
+    
+}
+
+p {
+  padding-top: 0px;
+  padding-bottom: 10px;
+padding-right: 5px;
+    font-size: 0.8em;
+}
+
+.tab label {
+  
+  border-radius: 15px;
+  position: relative;
+  display: block;
+  padding: 0 0 0 1em;
+  background: #000;
+  font-weight: bold;
+  line-height: 1.5;
+  cursor: pointer;
+  font-size: 4vw;
+  text-transform: uppercase;
+  padding-top: 1vw;
+  background: -webkit-linear-gradient(top, #000000 0%, #4c4e5a 30%, #000000 100%);
+  background:    -moz-linear-gradient(top, #000000 0%, #4c4e5a 30%, #000000 100%);
+  background:      -o-linear-gradient(top, #000000 0%, #4c4e5a 30%, #000000 100%);
+  background:     -ms-linear-gradient(top, #000000 0%, #4c4e5a 30%, #000000 100%);
+  background:         linear-gradient(top, #000000 0%, #4c4e5a 30%, #000000 100%);
+}
+
+.blue label {
+  background: #2980b9;
+}
+
+.tab-content {
+  border-radius: 15px;
+  margin: 0 auto;
+  max-height: 0;
+  overflow: hidden;
+  background: #7788aa;
+  -webkit-transition: max-height .35s;
+  -o-transition: max-height .35s;
+  transition: max-height .35s;
+  font-size: 4vw;
+}
+
+.blue .tab-content {
+  background: #3498db;
+    
+}
+
+.tab-content p {
+  margin-top: 1vh;
+    margin-bottom: 4vh;
+}
+.tab1{
+    margin-left: 4vw;
+    margin-top: 0.5vw;
+    margin-bottom:-2vw;
+}
+/* длина выклыдки 2го уровня */
+.tab input:checked ~ .tab-content {
+  max-height: 2500vh;
+}
+
+
+/* иконка */
+.tab label::after {
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: block;
+  width: 3em;
+  height: 3em;
+  line-height: 2.0;
+  text-align: center;
+  -webkit-transition: all .35s;
+  -o-transition: all .35s;
+  transition: all .35s;
+  
+}
+
+.probel {
+    height: 20px;
+    width: auto;
+}
+
+.tab input[type=checkbox] + label::after {
+  content: "+";
+}
+
+.tab input[type=radio] + label::after {
+  content: "\25BC";
+}
+
+.tab input[type=checkbox]:checked + label::after {
+  transform: rotate(315deg);
+  
+}
+
+.tab input[type=radio]:checked + label::after {
+  transform: rotateX(180deg);
+}
+
+.wrapper {
+  margin-top: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  
+}
+
+.photo {
+    
+    height: 30vh;
+}
+
+#item1{background-image: url(../img/asinchronik1.jpg);
+background-size: cover;
+  margin-left: -vw;
+    height: 25vh;
+}
+
+#item2{background-image: url(../img/asinchronik2.jpg);
+background-size: cover;
+        height: 45vh;
+}
+
+#item3{background-image: url(../img/asinchronik3.jpg);
+background-size: cover;
+}
+
+#item4{background-image: url(../img/blds1.jpg);
+background-size: cover;
+}
+#item5{background-image: url(../img/blds2.jpg);
+background-size: cover;
+}
+#item6{background-image: url(../img/vcc1.jpg);
+background-size: cover;
+    height: 45vh;
+}
+#item7{background-image: url(../img/blds2.jpg);
+background-size: cover;
+    height: 20vh
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
