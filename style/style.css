@@ -198,35 +198,85 @@ a {
 #holod4-1{background-image: url(../img/r-12holod.PNG);
 background-size: cover;
 width: 95%;
-    height: 790px
+height: 790px
 }
 
 #holod4-2{background-image: url(../img/r-134aholod.PNG);
 background-size: cover;
 width: 95%;
-    height: 790px
+height: 790px
 }
 
 #holod4-3{background-image: url(../img/r-600holod.PNG);
 background-size: cover;
 width: 95%;
-    height: 790px
+height: 790px
 }
 
 #pass1{background-image: url(../img/passport1.jpg);
 background-size: cover;
 width: 95%;
-    height: 790px
+height: 240px
 }
 
 #pass2{background-image: url(../img/passport2.jpg);
 background-size: cover;
 width: 95%;
-    height: 790px
+height: 200px
 }
 
+#holod9-1{background-image: url(../img/holod9-1.jpg);
+background-size: cover;
+width: 95%;
+height: 790px
+}
 
+#holod9-2{background-image: url(../img/holod9-2.jpg);
+background-size: cover;
+width: 95%;
+height: 790px
+}
 
+#def{background-image: url(../im);
+background-size: cover;
+width: 95%;
+height: 790px
+}
+
+#def1{background-image: url(../img/def1.jpg);
+background-size: cover;
+width: 95%;
+height: 790px
+}
+#def2{background-image: url(../img/def2.jpg);
+background-size: cover;
+width: 95%;
+height: 790px
+}
+
+#def3{background-image: url(../img/def3.jpg);
+background-size: cover;
+width: 95%;
+height: 790px
+}
+
+#def4{background-image: url(../img/def4.jpg);
+background-size: cover;
+width: 95%;
+height: 790px
+}
+
+#def5{background-image: url(../img/def5.jpg);
+background-size: cover;
+width: 95%;
+height: 790px
+}
+
+#def6{background-image: url(../img/def6.jpg);
+background-size: cover;
+width: 95%;
+height: 790px
+}
 
 
 
