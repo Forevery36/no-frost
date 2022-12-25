@@ -195,38 +195,23 @@ a {
     height: 30vh;
 }
 
-#item1{background-image: url(../img/asinchronik1.jpg);
+#holod4-1{background-image: url(../img/r-12holod.PNG);
 background-size: cover;
-  margin-left: -vw;
-    height: 25vh;
+width: 95%;
+    height: 790px
 }
 
-#item2{background-image: url(../img/asinchronik2.jpg);
+#holod4-2{background-image: url(../img/r-134aholod.PNG);
 background-size: cover;
-        height: 45vh;
+width: 95%;
+    height: 790px
 }
 
-#item3{background-image: url(../img/asinchronik3.jpg);
+#holod4-3{background-image: url(../img/r-600holod.PNG);
 background-size: cover;
+width: 95%;
+    height: 790px
 }
-
-#item4{background-image: url(../img/blds1.jpg);
-background-size: cover;
-}
-#item5{background-image: url(../img/blds2.jpg);
-background-size: cover;
-}
-#item6{background-image: url(../img/vcc1.jpg);
-background-size: cover;
-    height: 45vh;
-}
-#item7{background-image: url(../img/blds2.jpg);
-background-size: cover;
-    height: 20vh
-}
-
-
-
 
 
 
