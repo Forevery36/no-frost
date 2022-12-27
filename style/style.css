@@ -221,10 +221,16 @@ width: 95%;
 height: 790px
 }
 
+#holod4-4{background-image: url(../img/r-600fiz.PNG);
+background-size: cover;
+width: 95%;
+height: 790px
+}
+
 #pass1{background-image: url(../img/passport1.jpg);
 background-size: cover;
 width: 95%;
-height: 240px
+height: 280px
 }
 
 #pass2{background-image: url(../img/passport2.jpg);
@@ -286,11 +292,28 @@ width: 95%;
 height: 790px
 }
 
+#kondensator{background-image: url(../img/kondensator.jpg);
+background-size: cover;
+width: 95%;
+height: 2300px
+}
 
+#isparitel{background-image: url(../img/isparitel.jpg);
+background-size: cover;
+width: 95%;
+height: 590px
+}
+#kompressornui-holodilnik{background-image: url(../img/kompressornui-holodilnik.jpg);
+background-size: cover;
+width: ;
+height: 640px
+}
 
-
-
-
+#filtr{background-image: url(../img/filtr.jpg);
+background-size: cover;
+width: 95%;
+height: 340px
+}
 
 
 
