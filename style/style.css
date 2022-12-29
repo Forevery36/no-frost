@@ -317,7 +317,7 @@ height: 340px
 #termorele{background-image: url(../img/termorele.jpg);
 background-size: cover;
 width: 95%;
-height: 640px
+height: 740px
 }
 
 #termorele2{background-image: url(../img/termorele2.webp);
@@ -339,18 +339,18 @@ height: 440px
 #termorele5{background-image: url(../img/termorele5.webp);
 background-size: cover;
 width: 95%;
-height: 440px
+height: 540px
 }
 #klapan{background-image: url(../img/klapan.jpg);
 background-size: cover;
 width: 95%;
-height: 640px
+height: 780px
 }
 
 #klapan2{background-image: url(../img/klapan2.jpg);
 background-size: cover;
 width: 95%;
-height: 240px
+height: 350px
 }
 
 
@@ -362,15 +362,21 @@ height: 640px
 #ntc{background-image: url(../img/ntc.PNG);
 background-size: cover;
 width: 95%;
-height: 340px
+height: 480px
 }
 
 
+#modul{background-image: url(../img/modul.png);
+background-size: cover;
+width: 95%;
+height: 680px
+}
 
-
-
-
-
+#modul2{background-image: url(../img/modul2.png);
+background-size: cover;
+width: 95%;
+height: 680px
+}
 
 
 
